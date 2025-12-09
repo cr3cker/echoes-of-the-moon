@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"/home/cr3cker/echoes-of-the-forest/Intermediate/Source/Echoes.Build.cs",
+		"/home/cr3cker/echoes-of-the-forest/Intermediate/Source/Echoes.Target.cs",
+		"/home/cr3cker/echoes-of-the-forest/Intermediate/Source/EchoesClient.Target.cs",
+		"/home/cr3cker/echoes-of-the-forest/Intermediate/Source/EchoesEditor.Target.cs",
+		"/home/cr3cker/echoes-of-the-forest/Intermediate/Source/EchoesServer.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}

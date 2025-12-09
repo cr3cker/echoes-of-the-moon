@@ -1,0 +1,6 @@
+"/home/cr3cker/echoes-of-the-forest/Intermediate/Build/Linux/x64/UnrealEditor/Development/Echoes/Module.Echoes.cpp.o"
+ -soname="libUnrealEditor-Echoes.so"
+ -rpath-link="/home/cr3cker/echoes-of-the-forest/Binaries/Linux"
+ -L"/home/cr3cker/UnrealEngine/Engine/Binaries/Linux"
+ --start-group
+ --end-group
