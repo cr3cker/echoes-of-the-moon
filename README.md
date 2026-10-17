@@ -15,6 +15,10 @@
 
 ---
 
+<img src="./assets/cover.png" alt="Echoes of the Moon Cover" width="85%"/>
+
+---
+
 ## 🎮 About the Game
 
 **Echoes of the Moon** is a single-player fantasy adventure game developed in **Unreal Engine 5.4** as a two-semester university project.
@@ -25,18 +29,13 @@ Players take on the role of a traveler who must uncover the secrets of a forgott
 
 ---
 
-<h2 align="center">🎬 Gameplay Trailer</h2>
+## 🎬 Gameplay Trailer
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID">
-    <img
-      src="https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg"
-      alt="Echoes of the Moon - Gameplay Trailer"
-      width="800"
-    />
-  </a>
 
-  <p><b>Click the image to watch the gameplay trailer</b></p>
+
+**[▶ Watch the Gameplay Trailer on YouTube](https://www.youtube.com/watch?v=IOd48w8HyTY)**
+
 </div>
 
 ---
