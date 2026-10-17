@@ -133,37 +133,6 @@ The project combined programming, gameplay design, visual art, animation, and st
 
 ---
 
-## 👩‍💻 My Contributions
-
-**Role: Gameplay Programmer — Palina Charnyshova**
-
-My responsibilities focused on implementing gameplay systems, interactive features, and story-related mechanics.
-
-### Dialogue & Quest Systems
-- Developed an NPC dialogue system.
-- Implemented dialogue behavior using Unreal Engine Behavior Trees.
-- Created side quests and quest progression logic.
-- Worked on quest completion and player interactions.
-
-### Puzzles & Storytelling
-- Implemented interactive puzzles and progression mechanics.
-- Developed cinematic cutscenes for the game.
-- Integrated gameplay events with story progression.
-
-### Player Mechanics & UI
-- Implemented player stamina mechanics and running animations.
-- Worked on health and stamina interface elements.
-- Integrated character animations and sound effects.
-- Improved gameplay interactions and interface behavior.
-
-### Development & Integration
-- Integrated gameplay features into existing levels.
-- Worked with designers to incorporate visual assets.
-- Tested gameplay mechanics and fixed bugs.
-- Collaborated with the development team using Git and GitHub.
-
----
-
 ## 🚀 Running the Project
 
 This repository contains the Unreal Engine project files.
