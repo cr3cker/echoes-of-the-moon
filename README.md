@@ -15,7 +15,7 @@
 
 ---
 
-<img src="./assets/cover.png" alt="Echoes of the Moon Cover" width="85%"/>
+<img src="./assets/cover.png" alt="Echoes of the Moon Cover" width="100%"/>
 
 ---
 
