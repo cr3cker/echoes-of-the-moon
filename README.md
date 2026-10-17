@@ -25,13 +25,18 @@ Players take on the role of a traveler who must uncover the secrets of a forgott
 
 ---
 
-## 🎬 Gameplay Trailer
+<h2 align="center">🎬 Gameplay Trailer</h2>
 
 <div align="center">
+  <a href="https://www.youtube.com/watch?v=VIDEO_ID">
+    <img
+      src="https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg"
+      alt="Echoes of the Moon - Gameplay Trailer"
+      width="800"
+    />
+  </a>
 
-
-**[▶ Watch Gameplay Trailer on YouTube](https://www.youtube.com/watch?v=IOd48w8HyTY)**
-
+  <p><b>Click the image to watch the gameplay trailer</b></p>
 </div>
 
 ---
